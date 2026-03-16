@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'yuzuna'
         required: true
-        default: 'lokie'
+        default: 'yuzuna'
       agent_description:
         description: 'yuzuna'
         required: true
